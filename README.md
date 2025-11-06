@@ -22,11 +22,6 @@ Abra a página no seu navegador
 cd CompanhiaAerea/index.html
 ```
 
-## Funcionalidades
-
-- [X] Responsividade
-- [X] Adicionar detalhes de voos
-
 ## Funcionamento
 
 ![image](https://github.com/MarcosWolf/CompanhiaAerea/assets/26293082/8def8f0b-d62a-496a-a22b-1c26f82ea95c)
